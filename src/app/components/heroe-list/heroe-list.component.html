@@ -29,11 +29,33 @@
         <label><strong>Name: </strong></label> {{currentHeroe.name}}
       </div>
       <div>
-        <label><strong>Short_name: </strong></label> {{currentHeroe.short_name}}
+        <label><strong>Short Name: </strong></label> {{currentHeroe.short_name}}
       </div>
       <div>
-        <label><strong>Status: </strong></label>
-        {{currentBook.published ? "Published" : "Pending"}}
+        <label><strong>Alt Name: </strong></label> {{currentHeroe.alt_name}}
+      </div>
+      <div>
+        <label><strong>Role: </strong></label> {{currentHeroe.role}}
+      </div>
+      <div>
+        <label><strong>New Role: </strong></label> {{currentHeroe.new_role}}
+      </div>
+      <div>
+        <label><strong>Type: </strong></label> {{currentHeroe.type}}
+      </div>
+      <div>
+        <label><strong>Release Date : </strong></label> {{currentHeroe.release_date}}
+      </div>
+      <div>
+        <label><strong>Rework Date: </strong></label> {{currentHeroe.rework_date}}
+      </div>
+      <div>
+        <label><strong>Attribute Id: </strong></label> {{currentHeroe.attribute_id}}
+      </div>
+      <div *ngIf="currentHeroe.translations">
+        <label><strong>translations: </strong></label>
+        <span *ngFor="let translation of currentHeroe.translations">
+          {{translation}}, </span>
       </div>
 
       <a class="badge bg-warning" routerLink="/heroes/{{currentHeroe.id}}">Edit</a>

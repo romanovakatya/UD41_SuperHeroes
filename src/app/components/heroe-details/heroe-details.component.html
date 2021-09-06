@@ -1,1 +1,83 @@
-<p>heroe-details works!</p>
+<div>
+  <div *ngIf="currentHeroe.id" class="edit-form">
+    <h4>SuperHeroe</h4>
+    <form>
+      <div class="form-group mb-3">
+        <label for="name" class="form-label">Name</label>
+        <input type="text" class="form-control" id="name"
+               [(ngModel)]="currentHeroe.name" name="name"/>
+      </div>
+
+      <div class="form-group mb-3">
+        <label for="short_name" class="form-label">Short_name</label>
+        <input type="text" class="form-control" id="short_name"
+               [(ngModel)]="currentHeroe.short_name" name="short_name"/>
+      </div>
+
+      <div class="form-group mb-3">
+        <label for="alt_name"><strong>Alt_name </strong></label>
+        <input type="text" class="form-control" id="alt_name"
+               [(ngModel)]="currentHeroe.alt_name" name="alt_name"/>
+      </div>
+
+      <div class="form-group mb-3">
+        <label for="role"><strong>Role </strong></label>
+        <input type="text" class="form-control" id="role"
+               [(ngModel)]="currentHeroe.role" name="role"/>
+      </div>
+
+      <div  class="form-group mb-3">
+        <label for="new_role" class="form-label"><strong>New Role</strong></label>
+        <input type="text" class="form-control" id="new_role"
+               [(ngModel)] = "currentHeroe.new_role" name = "new_role"/>
+      </div>
+
+      <div  class="form-group mb-3">
+        <label for="type" class="form-label"><strong>Type</strong></label>
+        <input type="text" class="form-control" id="type"
+                [(ngModel)] = "currentHeroe.type" name = "type"/>
+      </div>
+
+      <div  class="form-group mb-3">
+        <label for="release_date" class="form-label"><strong>Release Date</strong></label>
+        <input type="date" class="form-control" id="release_date"
+               [(ngModel)] = "currentHeroe.release_date" name = "release_date"/>
+      </div>
+
+      <div  class="form-group mb-3">
+        <label for="rework_date" class="form-label"><strong>Rework Date</strong></label>
+        <input type="date" class="form-control" id="rework_date"
+                [(ngModel)] = "currentHeroe.rework_date" name = "rework_date"/>
+      </div>
+
+      <div  class="form-group mb-3">
+        <label for="attribute_id" class="form-label"><strong>Attribute_id</strong></label>
+        <input type="text" class="form-control" id="attribute_id"
+               [(ngModel)] = "currentHeroe.attribute_id" name = "attribute_id"/>
+      </div>
+
+      <div  class="form-group mb-3">
+        <label for="translation" class="form-label"><strong>Translations: </strong></label>
+        <input *ngFor="let translation of currentHeroe.translations" id="translation"
+               [(ngModel)] = "translation" name="translation"/>
+      </div>
+
+    </form>
+
+    <!-- como hacer translations ?????-->
+    <button class="badge bg-danger me-2"
+            (click)="deleteHeroe()">Delete
+    </button>
+
+    <button type="submit" class="badge bg-success mb-2"
+            (click)="updateHeroe()">Update
+    </button>
+    <p>{{ message }}</p>
+  </div>
+
+  <div *ngIf="!currentHeroe.id">
+    <br/>
+    <p>Cannot access this Heroe ...</p>
+  </div>
+</div>
+
