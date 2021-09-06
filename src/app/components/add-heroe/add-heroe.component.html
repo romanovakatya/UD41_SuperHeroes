@@ -1,0 +1,67 @@
+<div>
+  <div class="submit-form ">
+    <div *ngIf="!submitted">
+      <div class="form-group mb-3">
+        <label for="name" class="form-label">Name</label>
+        <input type="text" class="form-control" id="name"
+               required [(ngModel)] = "heroe.name" name = "name"/>
+      </div>
+
+      <div  class="form-group mb-3">
+        <label for="short_name" class="form-label">Short_name</label>
+        <input type="text" class="form-control" id="short_name"
+               required [(ngModel)] = "heroe.short_name" name = "short_name"/>
+      </div>
+
+      <div  class="form-group mb-3">
+        <label for="alt_name" class="form-label">Alt_name</label>
+        <input type="text" class="form-control" id="alt_name"
+               required [(ngModel)] = "heroe.alt_name" name = "alt_name"/>
+      </div>
+
+      <div  class="form-group mb-3">
+        <label for="role" class="form-label">Role</label>
+        <input type="text" class="form-control" id="role"
+               required [(ngModel)] = "heroe.role" name = "role"/>
+      </div>
+
+      <div  class="form-group mb-3">
+        <label for="new_role" class="form-label">New Role</label>
+        <input type="text" class="form-control" id="new_role"
+               required [(ngModel)] = "heroe.new_role" name = "new_role"/>
+      </div>
+
+      <div  class="form-group mb-3">
+        <label for="type" class="form-label">Type</label>
+        <input type="text" class="form-control" id="type"
+               required [(ngModel)] = "heroe.type" name = "type"/>
+      </div>
+
+      <div  class="form-group mb-3">
+        <label for="release_date" class="form-label">Release Date</label>
+        <input type="date" class="form-control" id="release_date"
+               required [(ngModel)] = "heroe.release_date" name = "release_date"/>
+      </div>
+
+      <div  class="form-group mb-3">
+        <label for="rework_date" class="form-label">Rework Date</label>
+        <input type="date" class="form-control" id="rework_date"
+               required [(ngModel)] = "heroe.rework_date" name = "rework_date"/>
+      </div>
+
+      <div  class="form-group mb-3">
+        <label for="attribute_id" class="form-label">Attribute_id</label>
+        <input type="text" class="form-control" id="attribute_id"
+               required [(ngModel)] = "heroe.attribute_id" name = "attribute_id"/>
+      </div>
+
+      <!-- como hacer translations ?????-->
+
+      <button (click)="saveHeroe() " class="btn btn-success">Submit</button>
+    </div>
+    <div *ngIf="submitted">
+      <h4>Superheroe was submitted successfully!</h4>
+      <button class="btn btn-success" (click)="newHeroe()">Add</button>
+    </div>
+  </div>
+</div>

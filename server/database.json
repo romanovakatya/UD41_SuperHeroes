@@ -1,0 +1,904 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Eunice Kihn",
+      "short_name": "Gabriella",
+      "alt_name": "Stamm",
+      "role": "Global Applications Technician",
+      "new_role": "Future Research Facilitator",
+      "type": "revolutionary",
+      "release_date": "2021-01-31T23:24:13.432Z",
+      "rework_date": "2021-12-01T22:09:04.550Z",
+      "translations": [
+        "doloremque",
+        "laboriosam",
+        "sed",
+        "porro",
+        "commodi"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Latoya Leffler",
+      "short_name": "Austin",
+      "alt_name": "Beier",
+      "role": "Regional Markets Strategist",
+      "new_role": "Chief Data Assistant",
+      "type": "Polarised",
+      "release_date": "2021-05-15T05:12:04.827Z",
+      "rework_date": "2021-12-04T23:18:05.672Z",
+      "translations": [
+        "nesciunt",
+        "minima",
+        "ipsum",
+        "ut",
+        "sequi"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "William Dooley",
+      "short_name": "Mackenzie",
+      "alt_name": "Fritsch",
+      "role": "Forward Paradigm Designer",
+      "new_role": "District Infrastructure Developer",
+      "type": "bricks-and-clicks",
+      "release_date": "2021-09-02T22:39:49.279Z",
+      "rework_date": "2022-07-14T05:26:03.952Z",
+      "translations": [
+        "numquam",
+        "culpa",
+        "nobis",
+        "id",
+        "quis"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Nelson Runte PhD",
+      "short_name": "Carlo",
+      "alt_name": "Beer",
+      "role": "Dynamic Quality Officer",
+      "new_role": "International Markets Liaison",
+      "type": "orange",
+      "release_date": "2020-10-05T00:12:04.062Z",
+      "rework_date": "2022-04-04T06:17:53.588Z",
+      "translations": [
+        "incidunt",
+        "quasi",
+        "ratione",
+        "nam",
+        "blanditiis"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Kelly Wehner",
+      "short_name": "Brock",
+      "alt_name": "Pouros",
+      "role": "Dynamic Operations Coordinator",
+      "new_role": "Legacy Applications Developer",
+      "type": "Seychelles",
+      "release_date": "2021-03-19T23:33:34.097Z",
+      "rework_date": "2021-12-15T03:24:04.364Z",
+      "translations": [
+        "aut",
+        "quasi",
+        "velit",
+        "hic",
+        "quae"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Archie Langworth",
+      "short_name": "Kaleb",
+      "alt_name": "Howe",
+      "role": "Dynamic Integration Architect",
+      "new_role": "National Accounts Consultant",
+      "type": "Garden",
+      "release_date": "2020-12-30T21:02:43.694Z",
+      "rework_date": "2021-11-21T00:28:37.519Z",
+      "translations": [
+        "delectus",
+        "temporibus",
+        "nobis",
+        "recusandae",
+        "assumenda"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Mr. Clifford Herzog",
+      "short_name": "Nikko",
+      "alt_name": "Kuhic",
+      "role": "Chief Creative Supervisor",
+      "new_role": "Product Group Supervisor",
+      "type": "Fork",
+      "release_date": "2021-01-29T22:59:18.147Z",
+      "rework_date": "2022-03-17T15:08:14.535Z",
+      "translations": [
+        "debitis",
+        "maxime",
+        "eius",
+        "quia",
+        "aut"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Beatrice Labadie",
+      "short_name": "Shea",
+      "alt_name": "McLaughlin",
+      "role": "Chief Usability Executive",
+      "new_role": "Dynamic Metrics Technician",
+      "type": "Lao",
+      "release_date": "2021-06-08T09:25:29.322Z",
+      "rework_date": "2021-10-14T09:48:07.000Z",
+      "translations": [
+        "omnis",
+        "dolore",
+        "voluptas",
+        "harum",
+        "qui"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Mr. Mitchell Kshlerin",
+      "short_name": "Janessa",
+      "alt_name": "Wintheiser",
+      "role": "Forward Factors Officer",
+      "new_role": "Lead Infrastructure Director",
+      "type": "aggregate",
+      "release_date": "2020-10-28T08:45:47.161Z",
+      "rework_date": "2022-02-10T17:22:50.001Z",
+      "translations": [
+        "veniam",
+        "qui",
+        "ut",
+        "maiores",
+        "optio"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Penny Gorczany",
+      "short_name": "Gabe",
+      "alt_name": "Braun",
+      "role": "Direct Intranet Liaison",
+      "new_role": "Investor Factors Architect",
+      "type": "Metal",
+      "release_date": "2020-12-30T18:16:24.791Z",
+      "rework_date": "2022-09-05T21:55:52.438Z",
+      "translations": [
+        "ab",
+        "eum",
+        "ratione",
+        "non",
+        "nam"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Mrs. Adam Robel",
+      "short_name": "Rory",
+      "alt_name": "Padberg",
+      "role": "Lead Configuration Liaison",
+      "new_role": "Chief Factors Facilitator",
+      "type": "3rd",
+      "release_date": "2020-11-27T12:04:28.081Z",
+      "rework_date": "2022-08-09T06:52:24.578Z",
+      "translations": [
+        "exercitationem",
+        "repellendus",
+        "molestiae",
+        "eveniet",
+        "rerum"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Christine Fritsch V",
+      "short_name": "Martine",
+      "alt_name": "McDermott",
+      "role": "Global Applications Liaison",
+      "new_role": "District Research Liaison",
+      "type": "Utah",
+      "release_date": "2021-01-23T00:36:34.749Z",
+      "rework_date": "2022-08-20T01:24:38.487Z",
+      "translations": [
+        "esse",
+        "est",
+        "consequuntur",
+        "deleniti",
+        "eveniet"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Martin Johns PhD",
+      "short_name": "Genevieve",
+      "alt_name": "Weimann",
+      "role": "National Usability Liaison",
+      "new_role": "International Applications Planner",
+      "type": "Accountability",
+      "release_date": "2021-05-24T15:34:36.096Z",
+      "rework_date": "2022-04-13T16:55:32.072Z",
+      "translations": [
+        "omnis",
+        "harum",
+        "omnis",
+        "quae",
+        "aut"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Sean Hettinger",
+      "short_name": "Eriberto",
+      "alt_name": "Adams",
+      "role": "Lead Quality Facilitator",
+      "new_role": "Principal Applications Administrator",
+      "type": "synthesizing",
+      "release_date": "2020-11-20T18:20:32.363Z",
+      "rework_date": "2022-03-14T00:14:37.130Z",
+      "translations": [
+        "sed",
+        "eius",
+        "nesciunt",
+        "consectetur",
+        "natus"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Jordan O'Hara",
+      "short_name": "Gennaro",
+      "alt_name": "Torphy",
+      "role": "Investor Identity Strategist",
+      "new_role": "National Infrastructure Executive",
+      "type": "knowledge",
+      "release_date": "2020-12-31T06:35:23.444Z",
+      "rework_date": "2022-05-09T12:12:15.592Z",
+      "translations": [
+        "non",
+        "consequatur",
+        "cumque",
+        "tempore",
+        "enim"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Israel Rowe",
+      "short_name": "Mckenna",
+      "alt_name": "Beatty",
+      "role": "Principal Applications Director",
+      "new_role": "Regional Configuration Orchestrator",
+      "type": "service-desk",
+      "release_date": "2021-07-07T06:18:19.509Z",
+      "rework_date": "2021-09-26T17:15:53.858Z",
+      "translations": [
+        "magnam",
+        "omnis",
+        "libero",
+        "unde",
+        "doloremque"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Bessie Schaden IV",
+      "short_name": "Celestine",
+      "alt_name": "Lesch",
+      "role": "Regional Implementation Supervisor",
+      "new_role": "Corporate Group Planner",
+      "type": "Small",
+      "release_date": "2020-12-21T12:03:32.591Z",
+      "rework_date": "2022-06-25T09:56:27.172Z",
+      "translations": [
+        "ipsam",
+        "tempore",
+        "eos",
+        "esse",
+        "numquam"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Paula Orn",
+      "short_name": "Geovanny",
+      "alt_name": "Funk",
+      "role": "Customer Web Producer",
+      "new_role": "Direct Group Manager",
+      "type": "Rial",
+      "release_date": "2020-12-03T22:22:42.964Z",
+      "rework_date": "2022-06-05T13:12:40.713Z",
+      "translations": [
+        "non",
+        "aut",
+        "eius",
+        "quas",
+        "pariatur"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Gregory Mayert",
+      "short_name": "Eliezer",
+      "alt_name": "Harvey",
+      "role": "Legacy Usability Assistant",
+      "new_role": "Lead Applications Consultant",
+      "type": "program",
+      "release_date": "2021-07-14T22:12:58.876Z",
+      "rework_date": "2022-03-23T20:22:38.234Z",
+      "translations": [
+        "quaerat",
+        "debitis",
+        "quaerat",
+        "reiciendis",
+        "esse"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Linda Walter",
+      "short_name": "Johnson",
+      "alt_name": "Hermann",
+      "role": "Regional Web Assistant",
+      "new_role": "Global Paradigm Consultant",
+      "type": "Pa'anga",
+      "release_date": "2020-11-21T18:48:48.205Z",
+      "rework_date": "2022-07-01T20:19:18.707Z",
+      "translations": [
+        "nam",
+        "voluptatem",
+        "eum",
+        "sit",
+        "deleniti"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Billie King PhD",
+      "short_name": "Neva",
+      "alt_name": "Brakus",
+      "role": "Regional Data Specialist",
+      "new_role": "Internal Integration Agent",
+      "type": "Liaison",
+      "release_date": "2021-04-18T17:52:53.506Z",
+      "rework_date": "2022-04-16T19:02:59.341Z",
+      "translations": [
+        "enim",
+        "magni",
+        "omnis",
+        "enim",
+        "nemo"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Albert Baumbach",
+      "short_name": "Flavie",
+      "alt_name": "Pagac",
+      "role": "Internal Security Technician",
+      "new_role": "Human Program Supervisor",
+      "type": "sexy",
+      "release_date": "2020-10-26T00:11:20.168Z",
+      "rework_date": "2022-06-16T14:37:10.370Z",
+      "translations": [
+        "est",
+        "culpa",
+        "consequatur",
+        "esse",
+        "nisi"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Dominick Skiles",
+      "short_name": "Ivah",
+      "alt_name": "Cronin",
+      "role": "Forward Marketing Supervisor",
+      "new_role": "Customer Research Engineer",
+      "type": "CSS",
+      "release_date": "2020-10-23T10:22:29.164Z",
+      "rework_date": "2022-08-05T12:34:54.651Z",
+      "translations": [
+        "iure",
+        "neque",
+        "id",
+        "sit",
+        "eos"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Tara Dibbert",
+      "short_name": "Reva",
+      "alt_name": "McLaughlin",
+      "role": "Dynamic Tactics Supervisor",
+      "new_role": "Dynamic Identity Director",
+      "type": "JSON",
+      "release_date": "2021-04-08T22:29:36.008Z",
+      "rework_date": "2022-01-08T23:44:47.163Z",
+      "translations": [
+        "ab",
+        "beatae",
+        "excepturi",
+        "voluptates",
+        "molestiae"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Desiree Ortiz",
+      "short_name": "Raquel",
+      "alt_name": "Runolfsson",
+      "role": "Future Response Technician",
+      "new_role": "Dynamic Data Analyst",
+      "type": "Manor",
+      "release_date": "2021-02-02T14:57:44.564Z",
+      "rework_date": "2021-09-10T11:37:40.065Z",
+      "translations": [
+        "voluptatem",
+        "aut",
+        "nam",
+        "consequatur",
+        "mollitia"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Dr. Francis Kessler",
+      "short_name": "Alice",
+      "alt_name": "Mante",
+      "role": "National Quality Facilitator",
+      "new_role": "Product Identity Executive",
+      "type": "Cotton",
+      "release_date": "2020-10-12T05:27:42.303Z",
+      "rework_date": "2021-09-08T07:12:34.875Z",
+      "translations": [
+        "pariatur",
+        "corrupti",
+        "et",
+        "consequatur",
+        "nobis"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Jaime Adams",
+      "short_name": "Modesta",
+      "alt_name": "Balistreri",
+      "role": "Dynamic Creative Coordinator",
+      "new_role": "Investor Infrastructure Representative",
+      "type": "Yuan",
+      "release_date": "2020-10-21T14:51:33.415Z",
+      "rework_date": "2021-11-24T17:45:06.366Z",
+      "translations": [
+        "omnis",
+        "repudiandae",
+        "iure",
+        "doloribus",
+        "fugiat"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Louis Larkin",
+      "short_name": "Rosella",
+      "alt_name": "Goodwin",
+      "role": "District Usability Analyst",
+      "new_role": "Lead Factors Engineer",
+      "type": "Associate",
+      "release_date": "2021-09-06T02:38:41.939Z",
+      "rework_date": "2022-04-19T01:59:55.024Z",
+      "translations": [
+        "corporis",
+        "qui",
+        "sit",
+        "corrupti",
+        "quaerat"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Edward Murphy",
+      "short_name": "Antone",
+      "alt_name": "Conroy",
+      "role": "International Division Engineer",
+      "new_role": "Internal Creative Coordinator",
+      "type": "Bacon",
+      "release_date": "2021-05-23T05:14:19.113Z",
+      "rework_date": "2021-12-18T18:26:25.596Z",
+      "translations": [
+        "incidunt",
+        "eligendi",
+        "perferendis",
+        "amet",
+        "dicta"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Maggie Hayes",
+      "short_name": "Noemi",
+      "alt_name": "Runolfsson",
+      "role": "Customer Brand Manager",
+      "new_role": "Lead Brand Analyst",
+      "type": "Operative",
+      "release_date": "2020-12-27T00:28:16.320Z",
+      "rework_date": "2022-02-11T08:49:28.723Z",
+      "translations": [
+        "voluptate",
+        "ipsa",
+        "beatae",
+        "cum",
+        "quia"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Joanna McCullough",
+      "short_name": "Casey",
+      "alt_name": "Smith",
+      "role": "District Directives Supervisor",
+      "new_role": "Human Assurance Liaison",
+      "type": "quantifying",
+      "release_date": "2020-10-25T16:28:48.043Z",
+      "rework_date": "2022-06-24T00:02:05.620Z",
+      "translations": [
+        "necessitatibus",
+        "vel",
+        "unde",
+        "debitis",
+        "tempora"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Tami Kertzmann",
+      "short_name": "Kaci",
+      "alt_name": "Shields",
+      "role": "Dynamic Tactics Engineer",
+      "new_role": "Corporate Group Representative",
+      "type": "networks",
+      "release_date": "2021-05-30T14:24:14.960Z",
+      "rework_date": "2022-08-02T00:30:19.859Z",
+      "translations": [
+        "consequatur",
+        "est",
+        "nemo",
+        "rerum",
+        "quis"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "William DuBuque",
+      "short_name": "Martina",
+      "alt_name": "Huels",
+      "role": "Dynamic Communications Architect",
+      "new_role": "District Branding Agent",
+      "type": "Cotton",
+      "release_date": "2020-12-03T09:58:57.183Z",
+      "rework_date": "2022-07-25T04:21:14.514Z",
+      "translations": [
+        "eius",
+        "voluptatum",
+        "officiis",
+        "ab",
+        "sunt"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Earl Farrell",
+      "short_name": "Stefan",
+      "alt_name": "Volkman",
+      "role": "Forward Optimization Developer",
+      "new_role": "Human Program Architect",
+      "type": "Representative",
+      "release_date": "2020-12-09T00:38:24.702Z",
+      "rework_date": "2022-01-23T14:33:11.170Z",
+      "translations": [
+        "qui",
+        "accusamus",
+        "aut",
+        "cupiditate",
+        "vel"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Kristin Roob",
+      "short_name": "Alexandrea",
+      "alt_name": "Rodriguez",
+      "role": "Customer Group Executive",
+      "new_role": "Internal Configuration Designer",
+      "type": "California",
+      "release_date": "2021-02-11T12:27:43.985Z",
+      "rework_date": "2022-08-06T02:15:51.526Z",
+      "translations": [
+        "veniam",
+        "molestias",
+        "reiciendis",
+        "reiciendis",
+        "officia"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Laura Herzog",
+      "short_name": "Devin",
+      "alt_name": "Abshire",
+      "role": "Corporate Division Manager",
+      "new_role": "Global Group Facilitator",
+      "type": "Officer",
+      "release_date": "2021-06-18T16:02:23.946Z",
+      "rework_date": "2022-08-17T12:11:40.392Z",
+      "translations": [
+        "deleniti",
+        "laboriosam",
+        "quis",
+        "autem",
+        "impedit"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Joan Jacobs",
+      "short_name": "Wilburn",
+      "alt_name": "Johnson",
+      "role": "Forward Tactics Facilitator",
+      "new_role": "Future Usability Architect",
+      "type": "Investment",
+      "release_date": "2020-09-06T22:43:47.002Z",
+      "rework_date": "2022-06-23T17:42:10.845Z",
+      "translations": [
+        "consequatur",
+        "et",
+        "autem",
+        "occaecati",
+        "aut"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Miss Troy Bernier",
+      "short_name": "Demarcus",
+      "alt_name": "Stanton",
+      "role": "Legacy Web Officer",
+      "new_role": "Dynamic Identity Facilitator",
+      "type": "black",
+      "release_date": "2020-09-12T10:17:44.865Z",
+      "rework_date": "2022-03-01T02:59:15.946Z",
+      "translations": [
+        "eos",
+        "cumque",
+        "quia",
+        "fuga",
+        "voluptates"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Toni Zemlak",
+      "short_name": "Daren",
+      "alt_name": "Schmeler",
+      "role": "Dynamic Marketing Designer",
+      "new_role": "Senior Operations Developer",
+      "type": "Wyoming",
+      "release_date": "2020-12-14T23:37:48.832Z",
+      "rework_date": "2022-03-25T06:47:51.226Z",
+      "translations": [
+        "vel",
+        "unde",
+        "eveniet",
+        "repudiandae",
+        "explicabo"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Clinton Kuvalis",
+      "short_name": "Maggie",
+      "alt_name": "Bins",
+      "role": "Direct Identity Specialist",
+      "new_role": "National Accounts Representative",
+      "type": "users",
+      "release_date": "2021-07-30T04:24:09.109Z",
+      "rework_date": "2021-12-14T16:45:30.831Z",
+      "translations": [
+        "dolorem",
+        "quod",
+        "numquam",
+        "unde",
+        "facere"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Kelly Kassulke",
+      "short_name": "Uriah",
+      "alt_name": "Lemke",
+      "role": "Dynamic Markets Planner",
+      "new_role": "Investor Paradigm Developer",
+      "type": "Toys",
+      "release_date": "2021-05-24T04:18:03.597Z",
+      "rework_date": "2022-01-31T09:36:25.946Z",
+      "translations": [
+        "numquam",
+        "hic",
+        "exercitationem",
+        "qui",
+        "quod"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Stephanie Greenholt",
+      "short_name": "Emanuel",
+      "alt_name": "Murphy",
+      "role": "District Factors Producer",
+      "new_role": "Human Response Designer",
+      "type": "Auto",
+      "release_date": "2021-06-19T17:16:30.195Z",
+      "rework_date": "2022-02-20T03:44:56.857Z",
+      "translations": [
+        "sed",
+        "autem",
+        "dicta",
+        "at",
+        "qui"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Jared Marks",
+      "short_name": "Clarissa",
+      "alt_name": "Jast",
+      "role": "Legacy Security Administrator",
+      "new_role": "Future Identity Designer",
+      "type": "hardware",
+      "release_date": "2021-05-25T21:56:00.525Z",
+      "rework_date": "2021-12-07T14:29:58.310Z",
+      "translations": [
+        "aut",
+        "illo",
+        "eum",
+        "voluptate",
+        "earum"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Laverne Dare",
+      "short_name": "Geovanny",
+      "alt_name": "Murray",
+      "role": "Principal Implementation Technician",
+      "new_role": "Investor Identity Consultant",
+      "type": "proactive",
+      "release_date": "2021-03-27T17:30:02.524Z",
+      "rework_date": "2021-10-06T05:05:06.939Z",
+      "translations": [
+        "nam",
+        "sit",
+        "veritatis",
+        "consequatur",
+        "debitis"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Cecelia Hauck",
+      "short_name": "Mollie",
+      "alt_name": "Fisher",
+      "role": "Lead Operations Specialist",
+      "new_role": "Regional Web Facilitator",
+      "type": "Metal",
+      "release_date": "2021-04-02T06:38:52.329Z",
+      "rework_date": "2021-09-12T20:29:15.831Z",
+      "translations": [
+        "quae",
+        "laborum",
+        "rerum",
+        "architecto",
+        "adipisci"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Jerome Wilkinson",
+      "short_name": "Rick",
+      "alt_name": "Champlin",
+      "role": "Dynamic Web Agent",
+      "new_role": "Corporate Configuration Assistant",
+      "type": "relationships",
+      "release_date": "2020-12-19T21:20:14.736Z",
+      "rework_date": "2021-10-29T18:15:43.748Z",
+      "translations": [
+        "qui",
+        "perferendis",
+        "exercitationem",
+        "architecto",
+        "optio"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Courtney Veum",
+      "short_name": "Hattie",
+      "alt_name": "Klein",
+      "role": "Human Data Engineer",
+      "new_role": "Lead Tactics Representative",
+      "type": "Shoes",
+      "release_date": "2021-02-17T17:43:22.064Z",
+      "rework_date": "2021-12-17T09:28:41.646Z",
+      "translations": [
+        "laborum",
+        "omnis",
+        "nihil",
+        "ut",
+        "et"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Danny Fisher",
+      "short_name": "Jarret",
+      "alt_name": "Heaney",
+      "role": "Human Configuration Director",
+      "new_role": "Dynamic Response Administrator",
+      "type": "up",
+      "release_date": "2020-09-25T07:26:03.208Z",
+      "rework_date": "2021-10-20T01:47:15.938Z",
+      "translations": [
+        "rem",
+        "perspiciatis",
+        "quas",
+        "sunt",
+        "eveniet"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Yolanda Keeling MD",
+      "short_name": "Thora",
+      "alt_name": "Kreiger",
+      "role": "Human Intranet Strategist",
+      "new_role": "Lead Marketing Manager",
+      "type": "intermediate",
+      "release_date": "2021-05-19T15:28:54.988Z",
+      "rework_date": "2022-06-07T20:18:10.676Z",
+      "translations": [
+        "repellendus",
+        "sequi",
+        "fugit",
+        "accusamus",
+        "assumenda"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Julio Will",
+      "short_name": "Enid",
+      "alt_name": "Cronin",
+      "role": "Corporate Configuration Coordinator",
+      "new_role": "Principal Interactions Representative",
+      "type": "Personal",
+      "release_date": "2021-04-19T21:20:21.283Z",
+      "rework_date": "2021-10-02T10:44:21.481Z",
+      "translations": [
+        "voluptatibus",
+        "consequuntur",
+        "qui",
+        "voluptatibus",
+        "doloribus"
+      ]
+    }
+  ]
+}
